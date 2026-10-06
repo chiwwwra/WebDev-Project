@@ -1,3 +1,4 @@
+
 # 🏡 WanderLust - Airbnb Clone
 
 A full-stack **Airbnb-inspired web application** built using **Node.js, Express.js, MongoDB, Mongoose, and EJS**.
@@ -319,7 +320,7 @@ node app.js
 
 The application runs on:
 
-http://localhost:8080
+https://wanderlust-qjdx.onrender.com
 ##🚀 How the Application Works
 The user sends a request through the browser.
 Express receives the request.
